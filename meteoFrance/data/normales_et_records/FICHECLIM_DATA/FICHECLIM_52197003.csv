@@ -1,0 +1,116 @@
+FICHE CLIMATOLOGIQUE;
+;
+Statistiques  1981-2010  et  records;
+FAYL-BILLOT_SAPC (52)      Indicatif : 52197003, alt : 347m, lat : 47°47'00"N, lon : 05°36'54"E;
+Edité le : 06/02/2021 dans l'état de la base;
+
+
+            ;     Janv.;     Févr.;      Mars;     Avril;       Mai;      Juin;     Juil.;      Août;     Sept.;      Oct.;      Nov.;      Déc.;     Année;
+
+
+La température la plus élevée (°C);
+(Records établis sur la période du 01-12-1991 au 04-02-2021);
+            ;      13.7;        22;      22.3;      27.1;      31.1;      34.7;      38.5;      37.8;      32.6;      25.7;      21.9;      16.6;      38.5;
+Date        ;   08-2014;   27-2019;   19-2005;   21-2018;   24-2009;   26-2019;   25-2019;   12-2003;   16-2020;   03-2011;   07-2015;   17-2019;      2019;
+
+
+Température maximale (Moyenne en °C);
+Statistiques établies sur la période 1991-2010;
+            ;       4.2;       6.4;      10.8;      14.9;      19.3;      22.8;      24.8;      24.4;      19.6;      14.6;       8.3;       4.4;      14.6;
+
+
+Température moyenne (Moyenne en °C);
+Statistiques établies sur la période 1991-2010;
+            ;       1.5;       3.1;       6.4;       9.7;      14.1;      17.3;      19.2;      18.8;      14.6;      10.6;       5.4;       2.1;      10.3;
+
+
+Température minimale (Moyenne en °C);
+Statistiques établies sur la période 1991-2010;
+            ;      -1.1;      -0.3;       1.9;       4.5;       8.8;      11.7;      13.5;      13.2;       9.6;       6.6;       2.5;      -0.3;       5.9;
+
+
+La température la plus basse (°C);
+(Records établis sur la période du 01-12-1991 au 04-02-2021);
+            ;       -16;     -15.1;     -14.5;      -5.4;      -1.3;       2.6;       6.6;       3.9;      -1.1;      -5.2;     -11.3;     -16.1;     -16.1;
+Date        ;   02-1997;   05-2012;   01-2005;   08-2003;   15-1995;   02-2006;   24-1999;   30-1998;   30-1995;   30-1997;   23-1998;   24-2001;      2001;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1991-2010;
+Tx >=  30°C ;         .;         .;         .;         .;       0.3;       1.4;       4.1;       3.4;         .;         .;         .;         .;       9.2;
+Tx >=  25°C ;         .;         .;         .;       0.5;       3.8;      10.3;      15.0;      13.2;       3.1;       0.1;         .;         .;      46.0;
+Tx <=   0°C ;       6.0;       2.3;       0.1;         .;         .;         .;         .;         .;         .;         .;       1.3;       5.0;      14.7;
+Tn <=   0°C ;      18.0;      15.8;      10.1;       4.0;       0.1;         .;         .;         .;       0.1;       2.1;       8.6;      16.5;      75.0;
+Tn <=  -5°C ;       6.8;       3.6;       1.7;       0.1;         .;         .;         .;         .;         .;       0.1;       1.4;       4.3;      17.9;
+Tn <= -10°C ;       1.4;       0.2;       0.1;         .;         .;         .;         .;         .;         .;         .;       0.1;       0.7;       2.4;
+(Tn=Température minimale. Tx=Température maximale);
+
+
+Précipitations : Hauteur quotidienne maximale (mm);
+(Records établis sur la période du 01-12-1991 au 04-02-2021);
+            ;      37.8;      51.8;      33.6;      37.6;        54;      48.8;      59.8;      44.8;      67.2;      59.6;      84.4;      47.6;      84.4;
+Date        ;   06-1994;   20-2002;   05-2020;   26-2013;   30-2008;   14-2015;   09-2000;   17-2006;   29-1999;   02-2020;   12-1996;   29-2001;      1996;
+
+
+Précipitations : Hauteur moyenne mensuelle (mm);
+Statistiques établies sur la période 1991-2010;
+            ;      85.5;      75.4;      75.1;      67.5;      90.5;      71.3;      87.7;      86.1;      79.5;      96.1;     102.2;        99;    1015.9;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1991-2010;
+Rr >=  1 mm ;      12.0;      10.7;      11.3;      10.6;      12.1;       9.4;      10.7;      10.4;      10.0;      12.1;      13.3;      12.6;     135.0;
+Rr >=  5 mm ;       5.9;       5.5;       4.9;       4.6;       6.1;       5.0;       5.6;       5.7;       5.2;       6.2;       6.8;       6.3;      67.9;
+Rr >= 10 mm ;       2.7;       2.5;       2.6;       1.9;       2.6;       2.3;       2.8;       3.0;       2.7;       3.2;       3.1;       3.8;      33.3;
+Rr : Hauteur quotidienne de précipitations;
+
+
+Degrés Jours Unifiés (Moyenne en °C);
+Statistiques établies sur la période 1991-2010;
+            ;     510.1;     422.5;     360.8;     250.1;     128.8;      56.8;      23.7;      29.6;     109.5;     228.7;     377.4;       494;    2992.0;
+
+
+Rayonnement global (Moyenne en J/cm²);
+Données non disponibles;
+
+
+
+Durée d'insolation (Moyenne en heures);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec fraction d'insolation;
+Données non disponibles;
+
+
+
+Evapotranspiration Potentielle (ETP Penman moyenne en mm);
+Données non disponibles;
+
+
+
+Rafale maximale de vent (m/s);
+Données non disponibles;
+
+
+
+Vitesse du vent moyenné sur 10 mn (Moyenne en m/s);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec rafales;
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec brouillard / orage / grêle / neige;
+Données non disponibles;
+
+
+- : donnée manquante;  . : donnée égale à 0;
+
+
+Ces statistiques sont établies sur la période 1981-2010 sauf pour les paramètres suivants :  précipitations (1991-2010), température (1991-2010).;
+
