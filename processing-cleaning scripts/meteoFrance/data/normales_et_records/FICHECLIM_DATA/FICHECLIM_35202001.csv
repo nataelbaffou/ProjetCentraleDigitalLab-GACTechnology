@@ -1,0 +1,117 @@
+FICHE CLIMATOLOGIQUE;
+;
+Statistiques  1981-2010  et  records;
+LA-NOE-BLANCHE (35)      Indicatif : 35202001, alt : 89m, lat : 47°46'48"N, lon : 01°45'54"W;
+Edité le : 06/02/2021 dans l'état de la base;
+
+
+            ;     Janv.;     Févr.;      Mars;     Avril;       Mai;      Juin;     Juil.;      Août;     Sept.;      Oct.;      Nov.;      Déc.;     Année;
+
+
+La température la plus élevée (°C);
+(Records établis sur la période du 01-03-1988 au 04-02-2021);
+            ;      17.4;      20.9;      22.3;      27.6;      30.9;      36.4;      39.3;        39;      33.2;      29.7;      20.6;      16.9;      39.3;
+Date        ;   27-2003;   27-2019;   30-2017;   20-2018;   26-2017;   27-2019;   23-2019;   10-2003;   14-2020;   02-2011;   01-2015;   19-2015;      2019;
+
+
+Température maximale (Moyenne en °C);
+Statistiques établies sur la période 1988-2010;
+            ;       8.4;       9.7;      12.6;        15;      19.3;      22.8;      24.8;      25.1;      21.6;      16.7;      11.7;       8.4;      16.4;
+
+
+Température moyenne (Moyenne en °C);
+Statistiques établies sur la période 1988-2010;
+            ;       5.7;       6.4;       8.5;      10.3;      14.2;      17.1;        19;      19.2;      16.4;      12.9;       8.5;       5.7;        12;
+
+
+Température minimale (Moyenne en °C);
+Statistiques établies sur la période 1988-2010;
+            ;         3;         3;       4.5;       5.6;       9.2;      11.4;      13.2;      13.4;      11.2;       9.1;       5.4;         3;       7.7;
+
+
+La température la plus basse (°C);
+(Records établis sur la période du 01-03-1988 au 04-02-2021);
+            ;     -11.6;     -10.8;      -7.7;      -2.2;       1.1;       3.9;       7.3;       5.3;       2.7;      -2.3;      -5.9;      -8.6;     -11.6;
+Date        ;   02-1997;   10-1991;   01-2005;   10-2003;   06-2019;   04-1991;   30-1988;   28-1998;   29-2007;   29-2003;   22-1998;   29-1996;      1997;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1988-2010;
+Tx >=  30°C ;         .;         .;         .;         .;       0.1;       2.0;       3.7;       3.7;       0.8;         .;         .;         .;      10.5;
+Tx >=  25°C ;         .;         .;         .;       0.2;       3.5;       8.3;      13.4;      13.9;       5.0;       0.2;         .;         .;      44.6;
+Tx <=   0°C ;       1.0;       0.2;         .;         .;         .;         .;         .;         .;         .;         .;       0.0;       0.4;       1.7;
+Tn <=   0°C ;       8.5;       7.0;       3.5;       1.0;         .;         .;         .;         .;         .;       0.4;       3.2;       8.9;      32.3;
+Tn <=  -5°C ;       1.0;       0.5;       0.0;         .;         .;         .;         .;         .;         .;         .;       0.0;       0.6;       2.1;
+Tn <= -10°C ;       0.1;       0.1;         .;         .;         .;         .;         .;         .;         .;         .;         .;         .;       0.2;
+(Tn=Température minimale. Tx=Température maximale);
+
+
+Précipitations : Hauteur quotidienne maximale (mm);
+(Records établis sur la période du 01-03-1988 au 04-02-2021);
+            ;      40.6;      29.4;      37.2;      28.6;        50;        32;      38.2;      27.4;      49.2;      32.8;      52.3;      50.8;      52.3;
+Date        ;   04-2001;   25-1997;   06-2007;   22-2001;   31-1999;   11-2020;   02-1998;   24-2005;   28-1991;   03-2020;   13-2010;   24-1999;      2010;
+
+
+Précipitations : Hauteur moyenne mensuelle (mm);
+Statistiques établies sur la période 1988-2010;
+            ;      83.4;        62;      55.2;      60.4;      64.4;        40;      46.6;      37.4;      58.9;      76.5;      82.6;      85.2;     752.6;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1988-2010;
+Rr >=  1 mm ;      12.0;      10.0;       9.2;      10.4;       9.4;       7.0;       7.5;       6.4;       8.3;      11.7;      12.1;      11.8;     115.8;
+Rr >=  5 mm ;       5.9;       4.7;       3.7;       4.5;       4.2;       2.6;       2.9;       2.6;       4.1;       5.0;       5.3;       5.9;      51.2;
+Rr >= 10 mm ;       2.5;       1.6;       1.4;       1.4;       2.1;       1.1;       1.3;       1.0;       1.8;       2.6;       2.6;       2.7;      22.0;
+Rr : Hauteur quotidienne de précipitations;
+
+
+Degrés Jours Unifiés (Moyenne en °C);
+Statistiques établies sur la période 1988-2010;
+            ;       381;     328.7;       293;     232.1;     122.9;      52.5;      20.3;      15.7;      62.7;     158.8;     283.5;       380;    2331.2;
+
+
+Rayonnement global (Moyenne en J/cm²);
+Statistiques établies sur la période 1989-2010;
+            ;         -;         -;     32745;         -;         -;     63046;     61289;     54134;     39753;     23878;     13214;         -;         -;
+
+
+Durée d'insolation (Moyenne en heures);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec fraction d'insolation;
+Données non disponibles;
+
+
+
+Evapotranspiration Potentielle (ETP Penman moyenne en mm);
+Données non disponibles;
+
+
+
+Rafale maximale de vent (m/s);
+(Records établis sur la période du 01-12-1988 au 04-02-2021);
+            ;        32;        38;      34.4;        28;        26;      30.1;        24;        25;        27;        29;        27;        34;38.0      ;
+Date        ;   04-1998;   03-1990;   06-2017;   17-1998;   18-1996;   07-2019;   08-2004;   18-2004;   07-1995;   30-2000;   25-1992;   26-1999;      1990;
+
+
+Vitesse du vent moyenné sur 10 mn (Moyenne en m/s);
+Statistiques établies sur la période 1988-2010;
+            ;       4.8;       4.6;       4.5;       4.2;         4;       3.6;       3.6;       3.4;       3.6;       4.1;       4.2;       4.5;       4.1;
+
+
+Nombre moyen de jours avec rafales;
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec brouillard / orage / grêle / neige;
+Données non disponibles;
+
+
+- : donnée manquante;  . : donnée égale à 0;
+
+
+Ces statistiques sont établies sur la période 1981-2010 sauf pour les paramètres suivants :  précipitations (1988-2010), température (1988-2010), rayonnement global (1989-2010), vent (1988-2010).;
+

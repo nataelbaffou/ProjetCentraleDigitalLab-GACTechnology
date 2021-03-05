@@ -1,0 +1,114 @@
+FICHE CLIMATOLOGIQUE;
+;
+Statistiques  1981-2010  et  records;
+ST-PIERRE-LES-N (77)      Indicatif : 77431001, alt : 117m, lat : 48°15'48"N, lon : 02°38'48"E;
+Edité le : 06/02/2021 dans l'état de la base;
+
+
+            ;     Janv.;     Févr.;      Mars;     Avril;       Mai;      Juin;     Juil.;      Août;     Sept.;      Oct.;      Nov.;      Déc.;     Année;
+
+
+La température la plus élevée (°C);
+(Records établis sur la période du 01-12-1977 au 30-09-2003);
+            ;        16;      21.5;      24.5;        28;        30;        34;      36.5;        41;        32;        30;        21;      16.5;        41;
+Date        ;   09-1998;   24-1990;   29-1989;   30-1994;   15-1992;   26-2001;   15-2003;   06-2003;   02-1984;   01-1985;   03-1993;   01-1984;      2003;
+
+
+Température maximale (Moyenne en °C);
+Statistiques établies sur la période 1981-2003;
+            ;       6.3;       7.7;      12.2;      14.9;      19.1;      22.3;      25.3;      25.6;      21.1;      16.1;        10;         7;      15.7;
+
+
+Température moyenne (Moyenne en °C);
+Statistiques établies sur la période 1981-2003;
+            ;       3.7;       4.3;       7.8;       9.9;        14;      16.9;      19.4;      19.4;      15.7;      11.8;       6.9;       4.6;      11.2;
+
+
+Température minimale (Moyenne en °C);
+Statistiques établies sur la période 1981-2003;
+            ;         1;       0.9;       3.3;       4.8;       8.8;      11.4;      13.4;      13.2;      10.2;       7.6;       3.7;       2.2;       6.7;
+
+
+La température la plus basse (°C);
+(Records établis sur la période du 01-12-1977 au 30-09-2003);
+            ;       -20;     -14.5;        -8;      -5.5;      -0.5;         3;         5;         4;       1.5;        -3;      -9.5;     -13.5;       -20;
+Date        ;   17-1985;   07-1991;   03-1986;   12-1986;   04-1979;   04-2001;   04-1984;   30-1986;   29-1995;   30-1997;   24-1998;   30-1985;      1985;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1981-2003;
+Tx >=  30°C ;         .;         .;         .;         .;       0.0;       1.4;       4.9;       4.8;       0.5;       0.1;         .;         .;      11.6;
+Tx >=  25°C ;         .;         .;         .;       0.4;       3.9;       8.8;      17.0;      16.7;       5.5;       0.9;         .;         .;      53.1;
+Tx <=   0°C ;       2.8;       2.1;       0.0;         .;         .;         .;         .;         .;         .;         .;       0.5;       1.7;       7.2;
+Tn <=   0°C ;      12.4;      13.1;       7.6;       2.9;       0.0;         .;         .;         .;         .;       1.1;       7.4;      11.0;      55.5;
+Tn <=  -5°C ;       3.1;       2.8;       0.1;       0.0;         .;         .;         .;         .;         .;         .;       0.8;       1.4;       8.3;
+Tn <= -10°C ;       0.9;       0.5;         .;         .;         .;         .;         .;         .;         .;         .;         .;       0.2;       1.7;
+(Tn=Température minimale. Tx=Température maximale);
+
+
+Précipitations : Hauteur quotidienne maximale (mm);
+(Records établis sur la période du 01-06-1977 au 04-02-2021);
+            ;        36;      40.2;        24;        42;        39;      43.7;      54.5;        85;      53.7;      35.4;      38.5;      30.9;        85;
+Date        ;   13-2004;   25-1997;   11-2013;   29-2014;   30-2016;   17-1986;   01-2018;   05-1997;   14-2013;   28-1998;   20-2015;   15-1981;      1997;
+
+
+Précipitations : Hauteur moyenne mensuelle (mm);
+            ;      55.2;      49.1;        51;      54.9;        62;      53.5;      53.7;      53.9;      59.9;      68.7;      59.8;      65.3;       687;
+
+
+Nombre moyen de jours avec;
+Rr >=  1 mm ;      11.7;      10.6;      10.8;      10.2;      10.6;       9.0;       7.8;       7.2;       8.5;      10.7;      11.4;      12.2;     120.9;
+Rr >=  5 mm ;       4.0;       2.9;       3.8;       3.8;       4.6;       3.5;       3.8;       2.9;       4.0;       4.9;       4.2;       5.3;      47.6;
+Rr >= 10 mm ;       1.1;       0.8;       1.0;       1.2;       1.5;       1.4;       2.0;       1.4;       1.8;       2.1;       1.4;       1.5;      17.3;
+Rr : Hauteur quotidienne de précipitations;
+
+
+Degrés Jours Unifiés (Moyenne en °C);
+Statistiques établies sur la période 1981-2003;
+            ;     443.6;     387.2;     317.7;     243.9;     131.3;      59.8;      18.8;      20.9;      81.1;     192.3;       334;     414.8;    2645.4;
+
+
+Rayonnement global (Moyenne en J/cm²);
+Données non disponibles;
+
+
+
+Durée d'insolation (Moyenne en heures);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec fraction d'insolation;
+Données non disponibles;
+
+
+
+Evapotranspiration Potentielle (ETP Penman moyenne en mm);
+Données non disponibles;
+
+
+
+Rafale maximale de vent (m/s);
+Données non disponibles;
+
+
+
+Vitesse du vent moyenné sur 10 mn (Moyenne en m/s);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec rafales;
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec brouillard / orage / grêle / neige;
+Données non disponibles;
+
+
+- : donnée manquante;  . : donnée égale à 0;
+
+
+Ces statistiques sont établies sur la période 1981-2010 sauf pour les paramètres suivants :  température (1981-2003).;
+

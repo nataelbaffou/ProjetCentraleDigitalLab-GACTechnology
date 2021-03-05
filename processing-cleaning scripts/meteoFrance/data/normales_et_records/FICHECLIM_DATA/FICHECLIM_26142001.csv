@@ -1,0 +1,114 @@
+FICHE CLIMATOLOGIQUE;
+;
+Statistiques  1981-2010  et  records;
+GLANDAGE_SAPC (26)      Indicatif : 26142001, alt : 1000m, lat : 44°40'24"N, lon : 05°36'54"E;
+Edité le : 06/02/2021 dans l'état de la base;
+
+
+            ;     Janv.;     Févr.;      Mars;     Avril;       Mai;      Juin;     Juil.;      Août;     Sept.;      Oct.;      Nov.;      Déc.;     Année;
+
+
+La température la plus élevée (°C);
+(Records établis sur la période du 01-01-1994 au 04-02-2021);
+            ;      18.5;      21.3;      21.4;      24.9;      29.4;      33.9;      35.2;      35.6;      31.1;      25.9;      21.9;      19.1;      35.6;
+Date        ;   29-2008;   27-2019;   23-2001;   21-2018;   24-2009;   25-2003;   06-2015;   13-2003;   05-2006;   07-2009;   08-2015;   13-1994;      2003;
+
+
+Température maximale (Moyenne en °C);
+Statistiques établies sur la période 1994-2010;
+            ;       6.2;       7.3;      10.4;      13.1;      18.1;      22.5;      25.2;      24.6;      19.6;      15.8;       9.3;       6.2;      14.9;
+
+
+Température moyenne (Moyenne en °C);
+Statistiques établies sur la période 1994-2010;
+            ;         2;       2.5;       5.3;       7.8;      12.4;      16.1;      18.5;      18.1;      13.9;      10.8;       5.2;       2.2;       9.6;
+
+
+Température minimale (Moyenne en °C);
+Statistiques établies sur la période 1994-2010;
+            ;      -2.2;      -2.2;       0.1;       2.4;       6.6;       9.7;      11.7;      11.7;       8.3;       5.8;       1.1;      -1.7;       4.3;
+
+
+La température la plus basse (°C);
+(Records établis sur la période du 01-01-1994 au 04-02-2021);
+            ;     -14.2;     -18.5;     -13.2;      -5.3;      -2.1;       1.2;       4.5;       2.9;       0.5;      -4.5;     -10.8;     -14.1;     -18.5;
+Date        ;   05-1995;   05-2012;   01-2005;   17-1999;   15-1995;   03-2006;   11-2007;   31-1995;   18-2001;   31-1997;   27-2010;   18-2010;      2012;
+
+
+Nombre moyen de jours avec;
+Statistiques établies sur la période 1994-2010;
+Tx >=  30°C ;         .;         .;         .;         .;         .;       1.2;       3.3;       3.3;       0.1;         .;         .;         .;       7.9;
+Tx >=  25°C ;         .;         .;         .;         .;       1.7;      10.7;      18.2;      15.2;       3.8;       0.1;         .;         .;      49.8;
+Tx <=   0°C ;       2.8;       2.1;       0.8;       0.1;         .;         .;         .;         .;         .;         .;       0.8;       2.8;       9.3;
+Tn <=   0°C ;      22.8;      20.4;      14.5;       7.7;       0.4;         .;         .;         .;         .;       1.9;      12.8;      20.3;     100.9;
+Tn <=  -5°C ;       7.3;       5.9;       2.9;       0.1;         .;         .;         .;         .;         .;         .;       2.1;       6.5;      24.8;
+Tn <= -10°C ;       0.9;       0.9;       0.3;         .;         .;         .;         .;         .;         .;         .;       0.2;       0.9;       3.4;
+(Tn=Température minimale. Tx=Température maximale);
+
+
+Précipitations : Hauteur quotidienne maximale (mm);
+(Records établis sur la période du 01-10-1967 au 04-02-2021);
+            ;     173.5;        63;      72.5;       127;      74.5;      66.8;        93;        54;        94;        80;       130;       125;     173.5;
+Date        ;   06-1994;   19-2006;   20-1971;   21-1995;   18-2013;   27-1988;   30-1970;   16-1968;   19-1999;   11-1972;   08-1982;   02-2003;      1994;
+
+
+Précipitations : Hauteur moyenne mensuelle (mm);
+            ;      87.4;      68.3;      68.1;     111.8;     100.3;      81.6;      57.5;        64;      97.8;     112.7;     119.9;     107.6;      1077;
+
+
+Nombre moyen de jours avec;
+Rr >=  1 mm ;       9.0;       7.8;       8.0;      10.0;      10.6;       7.4;       5.6;       6.2;       6.9;       9.2;       9.6;       9.4;      99.8;
+Rr >=  5 mm ;       5.4;       4.2;       4.4;       5.9;       6.1;       4.7;       3.4;       4.0;       4.6;       6.3;       6.1;       5.6;      60.7;
+Rr >= 10 mm ;       3.3;       2.5;       2.5;       3.6;       3.5;       3.0;       2.2;       2.4;       3.3;       4.0;       3.5;       3.9;      37.7;
+Rr : Hauteur quotidienne de précipitations;
+
+
+Degrés Jours Unifiés (Moyenne en °C);
+Statistiques établies sur la période 1994-2010;
+            ;     497.2;     436.6;     394.2;     306.9;     176.8;      80.5;      32.9;      38.5;     126.5;     223.3;     384.1;     488.3;    3185.8;
+
+
+Rayonnement global (Moyenne en J/cm²);
+Données non disponibles;
+
+
+
+Durée d'insolation (Moyenne en heures);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec fraction d'insolation;
+Données non disponibles;
+
+
+
+Evapotranspiration Potentielle (ETP Penman moyenne en mm);
+Données non disponibles;
+
+
+
+Rafale maximale de vent (m/s);
+Données non disponibles;
+
+
+
+Vitesse du vent moyenné sur 10 mn (Moyenne en m/s);
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec rafales;
+Données non disponibles;
+
+
+
+Nombre moyen de jours avec brouillard / orage / grêle / neige;
+Données non disponibles;
+
+
+- : donnée manquante;  . : donnée égale à 0;
+
+
+Ces statistiques sont établies sur la période 1981-2010 sauf pour les paramètres suivants :  température (1994-2010).;
+
