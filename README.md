@@ -10,8 +10,8 @@ Vous trouverez dans ce repo :
 
 ### Infos supplémentaires
 
-#### Prédiction et désagrégation
-Le traitement des données pour la prédiction et la désagrégation amènent à un format précis :
+#### Prédiction 
+Le traitement des données pour la prédiction amènent à un format précis :
 - Chaque bâtiment est désigné par un id
 - Chaque jeu de donnée à une plage d'id séparés par des milliers (ex : jeu1 0-999 | jeu2 1000-1999) décrites dans le fichier descriptif des jeux de données utilisés
 - Un fichier est créé par bâtiment avec les contraintes suivantes :
@@ -31,3 +31,30 @@ Le traitement des données pour la prédiction et la désagrégation amènent à
 
 
 #### Anomalies
+
+#### Désagrégation
+Pour la désagrégation on utilise la bibliothèque `nilmtk` (https://github.com/nilmtk/nilmtk) ainsi que la bibliothèque neuralnilm (https://github.com/JackKelly/neuralnilm). Ces deux bibliothèques ont été installées depuis leur répo : 
+
+- nilmtk
+```
+git clone https://github.com/nilmtk/nilmtk.git
+```
+```
+cd nilmtk
+```
+```
+python setup.py install
+```
+- neuralnilm
+```
+git clone https://github.com/JackKelly/neuralnilm.git
+```
+```
+cd nilmtk
+```
+```
+python setup.py install
+```
+
+
+
