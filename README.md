@@ -32,6 +32,12 @@ Le traitement des données pour la prédiction amènent à un format précis :
 
 #### Anomalies
 
+Le traitement des données pour la détection d'anomalies est le même que pour la prédiction.
+Il faut veiller à ce que les données de consommation des bâtiments soient dans le même répertoire que le fichier metadata.csv.
+Le traitement des données est différent selon qu'on utilise un ou plusieurs bâtiments en données d'entrée. Les trois fonctions scaling, create_sequences et get_train_test_sets
+qui permettent d'obtenir les jeux de données d'entraînement et de test dépendent de cela.
+
+
 #### Désagrégation
 Pour la désagrégation on utilise la bibliothèque `nilmtk` (https://github.com/nilmtk/nilmtk) ainsi que la bibliothèque neuralnilm (https://github.com/JackKelly/neuralnilm). Ces deux bibliothèques ont été installées depuis leur répo : 
 
