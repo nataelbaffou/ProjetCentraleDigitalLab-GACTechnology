@@ -10,8 +10,8 @@ Vous trouverez dans ce repo :
 
 ### Infos supplémentaires
 
-#### Prédiction et désagrégation
-Le traitement des données pour la prédiction et la désagrégation amènent à un format précis :
+#### Prédiction 
+Le traitement des données pour la prédiction amènent à un format précis :
 - Chaque bâtiment est désigné par un id
 - Chaque jeu de donnée à une plage d'id séparés par des milliers (ex : jeu1 0-999 | jeu2 1000-1999) décrites dans le fichier descriptif des jeux de données utilisés
 - Un fichier est créé par bâtiment avec les contraintes suivantes :
@@ -31,3 +31,45 @@ Le traitement des données pour la prédiction et la désagrégation amènent à
 
 
 #### Anomalies
+
+Le traitement des données pour la détection d'anomalies est le même que pour la prédiction.
+Il faut veiller à ce que les données de consommation des bâtiments soient dans le même répertoire que le fichier metadata.csv.
+Le traitement des données est différent selon qu'on utilise un ou plusieurs bâtiments en données d'entrée. Les trois fonctions scaling, create_sequences et get_train_test_sets
+qui permettent d'obtenir les jeux de données d'entraînement et de test dépendent de cela.
+
+
+#### Désagrégation
+Pour la désagrégation on utilise la bibliothèque `nilmtk` (https://github.com/nilmtk/nilmtk) ainsi que la bibliothèque neuralnilm (https://github.com/JackKelly/neuralnilm). 
+
+##### Installation de nilmtk
+Suivre les instructions d'installation décrites ici : https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/install_user.md
+
+Pour éviter des erreurs, mettre à jour pandas ```pip install pandas=1.2.2 --user```
+
+##### Installation de neuralnilm
+
+```
+git clone https://github.com/JackKelly/neuralnilm.git
+```
+La bibliothèque semble avoir des syntaxes de python2 qui font que ça ne marche pas sur python3.
+On vautiliser 2to3 pour régler le problème :
+```
+pip install 2to3
+```
+```
+2to3 --output-dir=python3-version/neuralnilm -W -n neuralnilm
+```
+```
+cd python3-version/neuralnilm
+```
+```
+python setup.py install
+```
+
+Installer également keras et theano  : 
+```
+conda install keras
+conda install theano
+
+```
+
