@@ -39,28 +39,37 @@ qui permettent d'obtenir les jeux de données d'entraînement et de test dépend
 
 
 #### Désagrégation
-Pour la désagrégation on utilise la bibliothèque `nilmtk` (https://github.com/nilmtk/nilmtk) ainsi que la bibliothèque neuralnilm (https://github.com/JackKelly/neuralnilm). Ces deux bibliothèques ont été installées depuis leur répo : 
+Pour la désagrégation on utilise la bibliothèque `nilmtk` (https://github.com/nilmtk/nilmtk) ainsi que la bibliothèque neuralnilm (https://github.com/JackKelly/neuralnilm). 
 
-- nilmtk
-```
-git clone https://github.com/nilmtk/nilmtk.git
-```
-```
-cd nilmtk
-```
-```
-python setup.py install
-```
-- neuralnilm
+##### Installation de nilmtk
+Suivre les instructions d'installation décrites ici : https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/install_user.md
+
+Pour éviter des erreurs, mettre à jour pandas ```pip install pandas=1.2.2 --user```
+
+##### Installation de neuralnilm
+
 ```
 git clone https://github.com/JackKelly/neuralnilm.git
 ```
+La bibliothèque semble avoir des syntaxes de python2 qui font que ça ne marche pas sur python3.
+On vautiliser 2to3 pour régler le problème :
 ```
-cd nilmtk
+pip install 2to3
+```
+```
+2to3 --output-dir=python3-version/neuralnilm -W -n neuralnilm
+```
+```
+cd python3-version/neuralnilm
 ```
 ```
 python setup.py install
 ```
 
+Installer également keras et theano  : 
+```
+conda install keras
+conda install theano
 
+```
 
